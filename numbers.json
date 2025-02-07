@@ -143,7 +143,175 @@
   "name": "Дидье",
   "surname": "Дрогба",
   "discription": "Ивуарийский футболист можно назвать самым сильным футболистом из Африки в 00-10 года 21 века. Легенда челси и победитель Лиги Чемпионов"
-  }
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/25.jpg",
+  "name": "Лука",
+  "surname": "Модрич",
+  "discription": "Хорватский полузащитник взявщий золотой мяч в эпоху Месси и Роналдо. Вывел свою сборную в финал Чемпионата мира 2018 и многократный победиль лиги Чемпионов"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/26.jpg",
+  "name": "Петр",
+  "surname": "Чех",
+  "discription": "Легендарный чешский вратарь, обладатель множества титулов с Челси, известен своей надежностью и реакцией. Многие его узнают по его шлему, который он должен был носить из-за серьезной травмы головы"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/27.jpg",
+  "name": "Икер",
+  "surname": "Касильяс",
+  "discription": "Испанский голкипер, капитан сборной Испании в период триумфа (Евро-2008, ЧМ-2010, Евро-2012), долгое время играл за Реал Мадрид. В период своего пика считался лучшим ГК в мире"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/28.jpg",
+  "name": "Хави",
+  "surname": "Эрнандес",
+  "discription": "Гений барселонской средней линии, символ позиционного футбола, сердце команды на протяжении десятилетий"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/29.jpg",
+  "name": "Серхио",
+  "surname": "Бускетс",
+  "discription": "Изобретатель роли глубокого опорного полузащитника, ключевой игрок Барселоны и сборной Испании."
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/30.jpg",
+  "name": "Хаби",
+  "surname": "Алонсо",
+  "discription": "Элегантный регулировщик игры, мастер длинных передач, успешно выступал за Ливерпуль, Реал и Баварию."
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/31.jpg",
+  "name": "Месут",
+  "surname": "Озил",
+  "discription": "Талантливый плеймейкер с немецкими корнями и турецкими происхождением, звезда Арсенала и победитель ЧМ-2014"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/32.jpg",
+  "name": "",
+  "surname": "Марсело",
+  "discription": "Бразильский защитник, ставший одним из лучших левых backs в истории, долгое время украшал фланг Реала"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/33.jpg",
+  "name": "Серхио",
+  "surname": "Рамос",
+  "discription": "Многогранный защитник и лидер Реала, известен своими голами в важнейших матчах"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/34.jpg",
+  "name": "Франк",
+  "surname": "Рибери",
+  "discription": "Французский вингер, долгие годы радовавший болельщиков Баварии своим дриблингом и точными передачами"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/35.jpg",
+  "name": "Арьен",
+  "surname": "Роббен",
+  "discription": "Голландский скоростной вингер, прославился работой на обоих флангах и golden goal в финале ЛЧ-2013"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/36.jpg",
+  "name": "Джон",
+  "surname": "Терри",
+  "discription": "Капитан Челси в их золотой эпохе, один из самых надежных центральных защитников Премьер-лиги"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/37.jpg",
+  "name": "Деннис",
+  "surname": "Бергкамп",
+  "discription": "Нидерландский атакующий полузащитник, знаменитый своей техникой и видением поля, легенда Арсенала"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/38.jpg",
+  "name": "Уэйн",
+  "surname": "Руни",
+  "discription": "Лучший бомбардир в истории Манчестер Юнайтед, универсальный нападающий сборной Англии"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/39.jpg",
+  "name": "Тони",
+  "surname": "Кросс",
+  "discription": "Немецкий полузащитник, известный своей точностью передач и дальними ударами, ключевой игрок Реала и сборной Германии, победитель ЧМ-2014"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/40.jpg",
+  "name": "Рио",
+  "surname": "Фердинанд",
+  "discription": "Элегантный английский защитник, долгое время был одним из лучших в мире в своей позиции"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/41.jpg",
+  "name": "Неманья",
+  "surname": "Видич",
+  "discription": "Сербский центральный защитник, символ защиты Манчестер Юнайтед в 2000-х"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/42.jpg",
+  "name": "Йохан",
+  "surname": "Кройфф",
+  "discription": "Голландский футбольный гений, основатель тотального футбола, тренер и игрок мирового уровня"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/43.jpg",
+  "name": "Эдгар",
+  "surname": "Дэвидс",
+  "discription": "Эксцентричный голландский полузащитник, известный своими очками и неуступчивостью на поле"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/44.jpg",
+  "name": "Себастьян",
+  "surname": "Верон",
+  "discription": "Аргентинский хавбек, один из самых дорогих футболистов своего времени, играл за Манчестер Юнайтед и Интер"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/45.jpg",
+  "name": "",
+  "surname": "Кака",
+  "discription": "Бразильская звезда, kombinatory и speedster, в 2007 году получил Золотой мяч. Последний перед эпохой Месси и Роналдо"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/46.jpg",
+  "name": "Хавьер",
+  "surname": "Дзанетти",
+  "discription": "Верный капитан Интера, правый защитник, отдавший клубу всю карьеру"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/47.jpg",
+  "name": "Райан",
+  "surname": "Гиггз",
+  "discription": "Валлийский вингер, рекордсмен по количеству матчей за Манчестер Юнайтед"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/48.jpg",
+  "name": "Лев",
+  "surname": "Ящин",
+  "discription": "Советский вратарь, единственный голкипер, получивший Золотой мяч, легенда мирового футбола"
+  },
+  {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/49.jpg",
+  "name": "",
+  "surname": "Рауль",
+  "discription": "Испанский форвард, рекордсмен Реала по забитым мячам (до появления Роналдо), один из самых результативных игроков в истории"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/50.jpg",
+  "name": "Александр",
+  "surname": "Дель Пьеро",
+  "discription": "Итальянский нападающий, символ Ювентуса, автор многих красивых голов"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/51.jpg",
+  "name": "Марко",
+  "surname": "Ройс",
+  "discription": "Современный немецкий полузащитник, известный своей скоростью и техникой, игрок Боруссии Дортмунд"
+  },
+   {
+  "image": "https://raw.githubusercontent.com/niket095/numbersJSON/master/images/52.jpg",
+  "name": "Михаэль",
+  "surname": "Баллак",
+  "discription": "Немецкий полузащитник, лидер сборной Германии в 2000-х, играл за Челси и Байер"
+  },
 ]
 
  
